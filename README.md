@@ -6,7 +6,16 @@
 
 Hi, I'm Majmoud Sabry Nasr , a Django Developer and intersted in Machine Learning
 
-
-- :education: I’m currently learning computer science (2023 expected graduation)
-- :computer: Techs: <img height="20" src=![image](https://github.com/MahmoudsNasr77/MahmoudsNasr77/assets/67973033/b25b971a-e6b2-4a4c-9839-ff371580b7c3)">  <img height="20" src="![image](https://github.com/MahmoudsNasr77/MahmoudsNasr77/assets/67973033/082f0d70-0278-4b9c-b749-390c5ddf04d1)
-">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+TECHNICAL SKILLS:
+  Programming:
+    Good At: Java, Python
+    Web technologies: Django Framework, HTML, C S S ,JavaScript, Bootstrap
+  Database:
+    Good At: SQL
+    Familiar with: MS SQL, Postgresql
+  Concepts:
+    Object oriented programming, Data Structures, Algorithms, Databases Concepts,
+    Machine Learning
+EDUCATION:
+  2019-2023: Computer Science Student At Faculty of Computer and information Zagazig
+  University, Egypt, GPA : 3.71(A+)
