@@ -1,5 +1,5 @@
-# 💫 About Me:
-A recent graduate in Computer Science, <br>I have honed my skills in back-end development, specializing in Python with a focus on the Django framework.<br> My academic background has equipped me with a deep understanding of algorithms, data structures, and machine learning techniques. <br>With hands-on experience in building scalable applications,<br> I am adept at translating business requirements into functional and efficient code.<br> My passion for leveraging data-driven insights drives me to continuously explore innovative solutions and stay updated with the latest industry trends.<br> Eager to collaborate with a dynamic team to tackle challenging projects and contribute to meaningful technological advancements.
+<h1 align="center">Hi 👋, I'm Mahmoud Sabry Nasr</h1>
+<h3 align="center">A passionate Back-end developer(Django) from Egypt</h3>
 
 
 ## 🌐 Socials:
