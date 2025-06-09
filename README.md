@@ -61,7 +61,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudsnasr77&theme=radical&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MahmoudsNasr77&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
