@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Mahmoud Sabry Nasr</h1>
-<h3 align="center">Back-end Developer | Django & Odoo Specialist | Python Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Mahmoud+Sabry+Nasr;Back-end+Developer+%7C+Django+%7C+Odoo+%7C+Python" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mahmoudnasr77">
