@@ -170,27 +170,6 @@ Graduation project focused on IoT and Machine Learning for smart irrigation.
 - QWeb Reports
 - Approval Workflows
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=MahmoudsNasr77&show_icons=true&theme=tokyonight"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudsNasr77&theme=tokyonight"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudsNasr77&layout=compact&theme=tokyonight"
-/>
-
-</p>
-
----
 
 # 📫 Contact
 
